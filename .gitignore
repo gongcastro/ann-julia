@@ -26,4 +26,5 @@ Manifest.toml
 **/**/*.WAV
 **/**/*.zip
 **/**/*.gzip
+**/**/*.pickle
 
